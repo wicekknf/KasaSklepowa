@@ -10,6 +10,7 @@ List<Product> productsUser = new List<Product>();
 
 //ścieżka do pliku JSON z bazą produktów
 var path = $"{Directory.GetCurrentDirectory()}\\ProductsFile.json";
+Console.WriteLine(Directory.GetCurrentDirectory());
 
 // odczytywanie produktów do listy products
 string json = File.ReadAllText(path);

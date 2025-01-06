@@ -1,0 +1,37 @@
+[
+    {
+        "ProductName": "Mas³o",
+        "ProductNumber": "01",
+        "Price": 9
+    },
+    {
+        "ProductName": "Mleko",
+        "ProductNumber": "02",
+        "Price": 4
+    },
+    {
+        "ProductName": "D¿em",
+        "ProductNumber": "03",
+        "Price": 4.5
+    },
+    {
+        "ProductName": "Ciastka",
+        "ProductNumber": "04",
+        "Price": 10
+    },
+    {
+        "ProductName": "Cytryna",
+        "ProductNumber": "05",
+        "Price": 1.5
+    },
+    {
+        "ProductName": "Ser",
+        "ProductNumber": "06",
+        "Price": 13
+    },
+    {
+        "ProductName": "Chleb",
+        "ProductNumber": "07",
+        "Price": 6
+    }
+]
